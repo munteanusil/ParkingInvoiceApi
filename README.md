@@ -1,4 +1,4 @@
-# ParkingInvoiceApi is an application initially developed as part of a technical test during a recruitment process. The base structure was provided, but the invoice cost calculation logic, business functionality, and all current improvements were developed by me.
+ ParkingInvoiceApi is an application initially developed as part of a technical test during a recruitment process. The base structure was provided, but the invoice cost calculation logic, business functionality, and all current improvements were developed by me.
 
 🔧 The application is built with .NET Core and provides an API for managing parking invoices, including automated tariff calculation, service configuration, and database integration.
 
