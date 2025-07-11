@@ -5,9 +5,9 @@
 🚀 I am currently working on adding new features and increasing the complexity of this API, along with developing a modern React-based frontend interface for data management and visualization.
 
 
-# Introducing MobiliTree
+# Introducing 
 
-MobiliTree is a new startup in the parking industry that wants to provide a consistent framework of organizing a parking business. 
+
 Their goal is helping parking managers and landlords to monitor their cash flow and manage their parking sessions.
 
 You are part of their development team and your current goal is to produce an API which will be capable of interacting with both the hardware in the parking facilities and the customers.
