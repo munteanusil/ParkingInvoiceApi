@@ -1,0 +1,33 @@
+﻿@model List<MobiliTreeApi.Domain.Invoice>
+
+@{
+    ViewData["Title"] = "Lista facturilor";
+}
+
+<h2>Facturi disponibile</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Client</th>
+            <th>Parcare</th>
+            <th>Suma (EUR)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var invoice in Model)
+        {
+            <tr>
+                <td>@invoice.CustomerId</td>
+                <td>@invoice.ParkingFacilityId</td>
+                <td>@invoice.Amount</td>
+                <td>
+                    <a asp-action="Details"
+                       asp-route-parkingFacilityId="@invoice.ParkingFacilityId"
+                       asp-route-customerId="@invoice.CustomerId">Detalii</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
