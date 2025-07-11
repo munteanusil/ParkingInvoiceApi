@@ -1,3 +1,10 @@
+# ParkingInvoiceApi is an application initially developed as part of a technical test during a recruitment process. The base structure was provided, but the invoice cost calculation logic, business functionality, and all current improvements were developed by me.
+
+🔧 The application is built with .NET Core and provides an API for managing parking invoices, including automated tariff calculation, service configuration, and database integration.
+
+🚀 I am currently working on adding new features and increasing the complexity of this API, along with developing a modern React-based frontend interface for data management and visualization.
+
+
 # Introducing MobiliTree
 
 MobiliTree is a new startup in the parking industry that wants to provide a consistent framework of organizing a parking business. 
