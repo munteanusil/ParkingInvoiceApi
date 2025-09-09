@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
-using MobiliTreeApi.Repositories;
-using MobiliTreeApi.Services;
+using ParkingApi.Repositories;
+using ParkingApi.Services;
 using Xunit;
 
-namespace MobiliTreeApi.Tests
+namespace ParkingApi.Tests
 {
     public class InvoiceServiceTest
     {

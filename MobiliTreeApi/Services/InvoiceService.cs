@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using MobiliTreeApi.Domain;
-using MobiliTreeApi.Repositories;
+using ParkingApi.Domain;
+using ParkingApi.Repositories;
 
-namespace MobiliTreeApi.Services
+namespace ParkingApi.Services
 {
     public interface IInvoiceService
     {

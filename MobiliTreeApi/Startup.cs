@@ -4,10 +4,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using MobiliTreeApi.Repositories;
-using MobiliTreeApi.Services;
+using ParkingApi.Repositories;
+using ParkingApi.Services;
 
-namespace MobiliTreeApi
+namespace ParkingApi
 {
     public class Startup
     {

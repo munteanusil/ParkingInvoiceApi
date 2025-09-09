@@ -1,9 +1,9 @@
-﻿using MobiliTreeApi.Domain;
-using MobiliTreeApi.Repositories;
+﻿using ParkingApi.Domain;
+using ParkingApi.Repositories;
 using System;
 using System.Linq;
 
-namespace MobiliTreeApi.Services
+namespace ParkingApi.Services
 {
 
     public  interface ISessionPricingService

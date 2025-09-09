@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MobiliTreeApi.Domain
+namespace ParkingApi.Domain
 {
     public class Session
     {

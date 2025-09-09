@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using MobiliTreeApi.Domain;
-using MobiliTreeApi.Repositories;
+using ParkingApi.Domain;
+using ParkingApi.Repositories;
 
-namespace MobiliTreeApi.Controllers
+namespace ParkingApi.Controllers
 {
     [ApiController]
     [Route("sessions")]

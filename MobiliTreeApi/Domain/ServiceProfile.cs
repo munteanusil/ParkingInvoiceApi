@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MobiliTreeApi.Domain
+namespace ParkingApi.Domain
 {
     public class ServiceProfile
     {

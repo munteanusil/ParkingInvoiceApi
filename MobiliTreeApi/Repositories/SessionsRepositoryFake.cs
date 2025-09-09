@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using MobiliTreeApi.Domain;
+using ParkingApi.Domain;
 
-namespace MobiliTreeApi.Repositories
+namespace ParkingApi.Repositories
 {
     public class SessionsRepositoryFake : ISessionsRepository
     {

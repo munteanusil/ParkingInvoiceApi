@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using Microsoft.AspNetCore.Mvc;
-using MobiliTreeApi.Domain;
-using MobiliTreeApi.Services;
+using ParkingApi.Domain;
+using ParkingApi.Services;
 
-namespace MobiliTreeApi.Controllers
+namespace ParkingApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

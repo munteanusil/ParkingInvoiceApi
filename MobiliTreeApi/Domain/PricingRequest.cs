@@ -1,4 +1,4 @@
-﻿namespace MobiliTreeApi.Domain
+﻿namespace ParkingApi.Domain
 {
     public class PricingRequest
     {

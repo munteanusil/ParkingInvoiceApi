@@ -62,6 +62,7 @@ app.UseAuthentication();
 
 app.UseAuthorization();
 
-app.MapDefaultControllerRoute();
+app.MapControllers();            // for TokenController (API)
+app.MapDefaultControllerRoute(); // for AuthController (Views)
 
 app.Run();

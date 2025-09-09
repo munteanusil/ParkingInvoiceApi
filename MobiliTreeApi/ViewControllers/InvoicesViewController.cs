@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MobiliTreeApi.Services;
+using ParkingApi.Services;
 
-namespace MobiliTreeApi.Controllers
+namespace ParkingApi.Controllers
 {
     public class InvoicesViewController : Controller
     {

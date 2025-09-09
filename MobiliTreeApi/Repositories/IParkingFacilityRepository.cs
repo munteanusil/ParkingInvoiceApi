@@ -1,6 +1,6 @@
-﻿using MobiliTreeApi.Domain;
+﻿using ParkingApi.Domain;
 
-namespace MobiliTreeApi.Repositories
+namespace ParkingApi.Repositories
 {
     public interface IParkingFacilityRepository
     {

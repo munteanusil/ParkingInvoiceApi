@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.VisualBasic;
-using MobiliTreeApi.Domain;
+using ParkingApi.Domain;
 
-namespace MobiliTreeApi.Repositories
+namespace ParkingApi.Repositories
 {
     public static class FakeData
     {
